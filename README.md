@@ -1,11 +1,11 @@
 
-# 📚 Student Track Management System (Java EE)
+#  Student Track Management System (Java EE)
 
 This is a complete, full-stack web application developed using Java EE (Servlets & JSPs) and MySQL for backend database management. The system handles core student administrative tasks, including registration, secure login, image streaming, and fee status tracking.
 
 ---
 
-## 🌟 Visual Showcase
+##  Visual Showcase
 
 | Screen | Description |
 | :--- | :--- |
@@ -14,7 +14,7 @@ This is a complete, full-stack web application developed using Java EE (Servlets
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 * **Student Registration & Secure Login:** Implements separate authentication portals for students and system administrators.
 * **Real-time Fee Tracking:** Students can view their total fees, amount paid, and the current balance due in real-time.
@@ -24,7 +24,7 @@ This is a complete, full-stack web application developed using Java EE (Servlets
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 
 
@@ -38,7 +38,7 @@ This is a complete, full-stack web application developed using Java EE (Servlets
 
 ---
 
-## 🚀 Setup and Installation Guide
+##  Setup and Installation Guide
 
 To run this project locally, you will need a Java EE environment (like Eclipse/IntelliJ), a MySQL server, and the JDBC driver.
 
@@ -89,7 +89,7 @@ Update the database connection parameters in `src/main/java/com/DBConnection.jav
 
 ---
 
-## 🗃️ Project Structure Overview
+##  Project Structure Overview
 
 ```text
 StudentTrackManagement/
@@ -107,7 +107,7 @@ StudentTrackManagement/
 
 ---
 
-## ⚠️ Troubleshooting Common Issues
+##  Troubleshooting Common Issues
 
 | Issue | Solution |
 | --- | --- |
@@ -118,7 +118,7 @@ StudentTrackManagement/
 
 ---
 
-## 💡 Future Scope and Enhancements
+##  Future Scope and Enhancements
 
 * **Admin Panel:** Implement full CRUD interface for administrators to manage records directly.
 * **Payment Gateway Integration:** Integrate with real gateways like Stripe or PayPal.
@@ -127,11 +127,11 @@ StudentTrackManagement/
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License.
 
-## 📧 Contact
+##  Contact
 
 **Name:** Prakrati Saxena
 
